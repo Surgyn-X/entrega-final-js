@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Funko pop 1",
+        "price": 10,
+        "image": "images/fun1.png"
+    },
+    {
+        "id": 2,
+        "name": "Funko pop 2",
+        "price": 20,
+        "image": "images/fun2.png"
+    },
+    {
+        "id": 3,
+        "name": "Funko pop 3",
+        "price": 30,
+        "image": "images/fun3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Funko pop 4",
+        "price": 40,
+        "image": "images/fun4.png"
+    },
+    {
+        "id": 5,
+        "name": "Funko pop 5",
+        "price": 50,
+        "image": "images/fun5.png"
+    },
+    {
+        "id": 6,
+        "name": "Funko pop 6",
+        "price": 60,
+        "image": "images/fun6.png"
+    }
+]
